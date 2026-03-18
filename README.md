@@ -1,3 +1,2 @@
-Hi 👋 I'm Niklas
-Freelance Web Developer
-Open for projects 🚀
+Hi, i'm Niklas
+Building fast, modern websites
